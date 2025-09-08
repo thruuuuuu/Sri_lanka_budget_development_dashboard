@@ -1,7 +1,8 @@
-# Sri Lankan Regional Budget vs Development - Data Visualization Dashboard
+# Sri Lankan Regional Budget vs Development – Data Visualization Dashboard
 
 ## Objective
-This project explores the relationship between government budget allocation and development indicators across various regions of Sri Lanka. The goal is to identify whether higher budget allocations correlate with education, healthcare, infrastructure, or economic development improvements.
+This project analyzes the relationship between government budget allocation and regional development indicators in Sri Lanka.
+The goal is to explore whether regions receiving higher budgets show better outcomes in education, healthcare, infrastructure, and economic growth.
 
 ## Key Questions
 - Which regions receive the highest/lowest budget allocations?
